@@ -8,9 +8,11 @@ In the future new map packs will be offered to help users learn locations within
 
 ### Features
 
-    - A high quality interactive 3d world map with detailed country information.
-    - A competative game that teaches geography.
-    - A guided memorization routine to help students master country locations.
+   - A high quality interactive 3d world map with detailed country information.
+    
+   - A competative game that teaches geography.
+    
+   - A guided memorization routine to help students master country locations.
 
 ### Demo Downloads
 

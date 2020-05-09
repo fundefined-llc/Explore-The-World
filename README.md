@@ -1,4 +1,4 @@
-### About
+### Fundefined LLC's "Explore The World!"
 
 `Explore The World` is an app designed to teach world geography in a fun and engaging way.
 It makes use of competative play via a game (expedition) and spaced repetition via its memorization mode to help users
@@ -14,12 +14,12 @@ In the future new map packs will be offered to help users learn locations within
 
 ### Demo Downloads
 
-[Windows](builds/windows/Explore The World.exe)
+[Windows](https://github.com/fundefined-llc/Explore-The-World/raw/master/builds/windows/Explore%20The%20World.exe)
 
-[Linux](builds/linux/Explore The World.x86_64)
+[Linux](https://github.com/fundefined-llc/Explore-The-World/raw/master/builds/linux/Explore%20The%20World.x86_64)
 
-[MacOS](builds/MacOS/Explore The World.zip)
+[MacOS](https://github.com/fundefined-llc/Explore-The-World/raw/master/builds/MacOS/Explore%20The%20World.zip)
 
-[Android](builds/android/Explore The World.apk)
+[Android](https://github.com/fundefined-llc/Explore-The-World/raw/master/builds/android/Explore%20The%20World.apk)
 
 ** Note: the android version needs to be side loaded until it's up on the play store. **

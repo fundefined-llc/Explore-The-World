@@ -18,6 +18,8 @@ In the future new map packs will be offered to help users learn locations within
 
 [Windows](https://github.com/fundefined-llc/Explore-The-World/raw/master/builds/windows/Explore%20The%20World.exe)
 
+*note: Windows 10 will block the demo and show you a popup, you can go ahead and play it by clicking "more" on the popup and giving the go-ahead.*
+
 [Linux](https://github.com/fundefined-llc/Explore-The-World/raw/master/builds/linux/Explore%20The%20World.x86_64)
 
 [MacOS](https://github.com/fundefined-llc/Explore-The-World/raw/master/builds/MacOS/Explore%20The%20World.zip)

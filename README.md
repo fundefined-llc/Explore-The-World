@@ -26,4 +26,4 @@ In the future new map packs will be offered to help users learn locations within
 
 [Android](https://github.com/fundefined-llc/Explore-The-World/raw/master/builds/android/Explore%20The%20World.apk)
 
-** Note: the android version needs to be side loaded until it's up on the play store. **
+*note: the android version needs to be side loaded until it's up on the play store. *

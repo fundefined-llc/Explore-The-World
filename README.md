@@ -6,6 +6,8 @@ learn the location of countries around the globe.
 
 This version is unfinished and lacking, among other things, textures for models and proper tutorials. Still, the core stuff is there to play with and so we're looking for feedback from friends.
 
+Please leave any feedback here: https://forms.gle/Y5hFN5y9yafQnJXv8
+
 ### Features
 
    - A high quality interactive 3d world map with detailed country information.

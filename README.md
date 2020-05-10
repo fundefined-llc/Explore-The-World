@@ -1,4 +1,4 @@
-### Fundefined LLC's "Explore The World!"
+### About
 
 Explore The World is an app designed to teach world geography in a fun and engaging way.
 It makes use of competative play via a game (expedition) and spaced repetition via its memorization mode to help users

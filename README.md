@@ -4,8 +4,6 @@ Explore The World is an app designed to teach world geography in a fun and engag
 It makes use of competative play via a game (expedition) and spaced repetition via its memorization mode to help users
 learn the location of countries around the globe.
 
-In the future new map packs will be offered to help users learn locations within countries.
-
 This version is unfinished and lacking, among other things, textures for models and proper tutorials. Still, the core stuff is there to play with and so we're looking for feedback from friends.
 
 ### Features
